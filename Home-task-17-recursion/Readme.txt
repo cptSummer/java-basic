@@ -1,0 +1,2 @@
+CPU AMD A4-3400 APU 2.70GHz
+Runtime Fibonacci 50 = 12586269025 >>> 123393 ms
